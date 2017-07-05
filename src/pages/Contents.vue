@@ -1,7 +1,7 @@
 <template>
   <v-layout column class="even-column">
     <v-flex md10 offset-md1>
-      <h4 class="mt-5">Contents</h4>
+      <h4 class="mt-5">Contents ({{contents.length}})</h4>
       <blockquote>
         &#8220;Start writing, no matter what. The water doesn't flow until the faucet is turned on.&#8221;
         <footer>
