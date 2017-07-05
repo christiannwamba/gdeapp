@@ -7,16 +7,18 @@
     <h5>Christian Nwamba</h5>
     <h6>Codebeast</h6>
     <h5 class="preacher">JavaScript Preacher</h5>
-    <p style="font-size: 16px">Software engineer living in Lagos, Nigeria. 
-    Web developer. 
-    Breeds in the Frontend ecosystem. 
-    One semicolon at a time.
-    Technical writer.
-    Community builder, facilitator, and manager.
-    Developer evangelist and advocate.
-    Customer success engineer.
-    I'm a self acclaimed JavaScript preacher, dog parent, and traveller.
+    <p style="font-size: 16px">
+    I’m a software engineer, 
+    and web developer living in Lagos, Nigeria. 
+    I am also a technical writer, 
+    and a Javascript evangelist, 
+    who is totally immersed in spreading the gospel of Javascript, 
+    as well as building and strengthening communities, 
+    one semi-colon at a time.
+    Proud dad of a feisty six month old caucasian dog (named Java), traveller and  optimist!
+    I'm a self proclaimed JavaScript Preacher.
     </p>
+
 
     <v-layout justify-space-around class="social">
     <div class="logo hidden-sm-and-down">
@@ -244,5 +246,13 @@
 }
 .icon--large {
   font-size: 5rem;
+  animation: colo 5s infinite;
+}
+
+@-webkit-keyframes colo {
+    0%   {color: #eeeeee;}
+    25%  {color: #e0e0e0;}
+    75%  {color: #bdbdbd;}
+    100% {color: #eeeeee;}
 }
 </style>
