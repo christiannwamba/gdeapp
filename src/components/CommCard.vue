@@ -1,5 +1,5 @@
 <template>
-  <v-flex md6>
+  <v-flex md6 xs12 class="mt-2 pl-3 pr-3">
     <v-card hover raised @click="go(comm.link)">
       <v-card-column justify-center class="pa-5 grey lighten-1 job-card" :style="composeBackgroundStyle(comm.media)">
         <div class="display-1 white--text">{{comm.name}}</div> 

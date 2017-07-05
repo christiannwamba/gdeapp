@@ -197,6 +197,9 @@
   .vodal-mask {
     background: rgba(0,0,0,0.8);
   }
+  .container {
+    padding: 0 2em;
+  }
   .jumbotron
     width: 100%
     height: 850px
