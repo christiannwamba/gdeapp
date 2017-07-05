@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Angular Nigeria",
+    "role": "Organizer",
+    "link": "https://www.meetup.com/ng-nigeria/",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/ngng-bg_vvw2ss.png",
+    "bio": ""
+  },
+  {
+    "name": "forLoop Lagos",
+    "role": "Organizer",
+    "link": "http://forloop.ng/",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/forloop-bg_ecambi.png",
+    "bio": ""
+  },
+  {
+    "name": "GDG Lagos",
+    "role": "Facilitator",
+    "link": "https://www.meetup.com/gdg-lagos",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/gdg-bg_e25syo.png",
+    "bio": ""
+  },
+  {
+    "name": "Laravel Nigeria",
+    "role": "Facilitator",
+    "link": "https://www.meetup.com/Laravel-Nigeria/",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/lara-bg_ei7vqt.png",
+    "bio": ""
+  },
+  {
+    "name": "forLoop Nairobi",
+    "role": "Facilitator",
+    "link": "http://forloop.ng/",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/forloop-bg_ecambi.png",
+    "bio": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "company": "Scotch.io",
+    "type": "Fulltime/Remote",
+    "title": "Technical Writer/Editor",
+    "description": "",
+    "duration": "2015 - today",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/f_auto/v1499087648/scotch-job_dqv7cv.png"
+  },
+  {
+    "company": "Auth0",
+    "type": "Contract/Remote",
+    "title": "Customer Success Engineer",
+    "description": "",
+    "duration": "April 2016 - July 2016",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/auth0-bg_rjfwdn.png"
+  },
+  {
+    "company": "deepstreamHub",
+    "type": "Contract/Remote",
+    "title": "Technical Writer",
+    "description": "",
+    "duration": "December 2016 - today",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/ds-bg_nxmsuc.png"
+  },
+  {
+    "company": "Cloudinary",
+    "type": "Consultant/Contract/Remote",
+    "title": "Developer Evangelist/Writer",
+    "description": "",
+    "duration": "October 2016 - today",
+    "media": "http://res.cloudinary.com/christekh/image/upload/c_scale,f_auto,q_auto:eco,w_800/cl-bg_q9kyyu.png"
+  }
+]
