@@ -1,7 +1,7 @@
 <template>
 <v-flex md6 xs12 class="mt-2 pl-3 pr-3">
   <v-card horizontal xs12>
-    <v-card-row class="github-bg" img="/public/logos/github.svg" height="130px"></v-card-row>
+    <v-card-row class="github-bg" img="http://res.cloudinary.com/christekh/image/upload/v1499262240/github2_ofgrbb.svg" height="130px"></v-card-row>
     <v-card-column>
       <v-card-row height="75px" class="grey darken-3 white--text">
         <v-card-text>
@@ -37,6 +37,6 @@
     background-image: linear-gradient(
   rgba(0, 0, 0, 0.9),
   rgba(0, 0, 0, 0.8)
-  ), url('/public/logos/github.svg') !important
+  ), url('https://res.cloudinary.com/christekh/image/upload/v1499262240/github_e4hxtn.svg') !important
   }
 </style>

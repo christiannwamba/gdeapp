@@ -10,6 +10,18 @@
           </small>
         </footer>
       </blockquote>
+      <div class="text-xs-center">
+        <v-btn @click.native="filter('ALL')">All</v-btn>
+        <v-btn 
+          @click.native="filter(platform)"
+          secondary 
+          class="grey--text text--lighten-2" 
+          v-for="platform in platforms" 
+          :key="platform"
+          >
+          <span>{{platform}}</span>
+        </v-btn>
+      </div>
       <v-layout row wrap v-for="i in Math.ceil(contents.length / 2)" :key="i" class="mt-5">
         <content-card
           v-for="content in contents.slice((i - 1) * 2, i * 2)"
@@ -28,6 +40,21 @@ export default {
   data() {
     return {
       contents: data.contents,
+      platforms: ['CLOUDINARY', 'SCOTCH', 'MEDIUM', 'PUSHER', 'CODEMENTOR']
+    }
+  },
+  methods: {
+    filter(platform) {
+      console.log(platform)
+      switch(platform) {
+        case 'ALL':
+          this.contents = data.contents;
+          break;
+        case platform:
+          // const platform = this.platforms[platform];
+          this.contents = data.contents.filter(content => content.platform.toUpperCase() === platform)
+          break;
+      }
     }
   },
   mounted() {

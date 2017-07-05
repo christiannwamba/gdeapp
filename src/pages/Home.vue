@@ -20,19 +20,19 @@
 
     <v-layout justify-space-around class="social">
     <div class="logo hidden-sm-and-down">
-        <a href="https://scotch.io/@codebeast" target="_blank"><img src="/public/logos/user.svg" alt=""></a>
+        <a href="https://scotch.io/@codebeast" target="_blank"><img src="https://res.cloudinary.com/christekh/image/upload/v1499262240/user_pspd96.svg" alt=""></a>
       </div>
       <div class="logo">
-        <a href="https://github.com/christiannwamba" target="_blank"><img src="/public/logos/github.svg" alt=""></a>
+        <a href="https://github.com/christiannwamba" target="_blank"><img src="https://res.cloudinary.com/christekh/image/upload/v1499262240/github_e4hxtn.svg" alt=""></a>
       </div>
       <div class="logo">
-        <a href="https://twitter.com/codebeast" target="_blank"><img src="/public/logos/twitter.svg" alt=""></a>
+        <a href="https://twitter.com/codebeast" target="_blank"><img src="https://res.cloudinary.com/christekh/image/upload/v1499262240/twitter_rjx8ni.svg" alt=""></a>
       </div>
       <div class="logo hidden-sm-and-down">
-        <a href="https://plus.google.com/u/1/+ChristianNwamba" target="_blank"><img src="/public/logos/google-plus.svg" alt=""></a>
+        <a href="https://plus.google.com/u/1/+ChristianNwamba" target="_blank"><img src="https://res.cloudinary.com/christekh/image/upload/v1499262240/google-plus_kvovo4.svg" alt=""></a>
       </div>
       <div class="logo">
-        <a href="mailto:nwambachristian@gmail.com?Subject=Hi" ><img src="/public/logos/email.svg" alt=""></a>
+        <a href="mailto:nwambachristian@gmail.com?Subject=Hi" ><img src="https://res.cloudinary.com/christekh/image/upload/v1499262240/email_jycrzn.svg" alt=""></a>
       </div>
     </v-layout>
     <v-layout justify-space-around>

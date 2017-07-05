@@ -42,31 +42,439 @@
     }
   ],
   "contents": [
-    {
-      "title": "Build a Music Player with React & Electron I: Setup & Basic Concepts",
-      "media": "http://res.cloudinary.com/christekh/image/upload/v1499089996/UDBu9DFqTv6L3yHZ0D9z_Scotch-Player-1_qa6gs8.jpg",
-      "link": "https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts",
-      "platform": "Scotch.io"
-    },
-    {
-      "title": "Build a Music Player with Angular 2+ & Electron I : Setup & Basics Concepts",
-      "media": "http://res.cloudinary.com/christekh/image/upload/v1499090096/UquBjcdAS72WyStXCZHX_Build-a-MUSIC_20APP_20WITH_20ANGULAR_20_20ELECTRON_201_l0gbo2.jpg",
-      "link": "https://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts",
-      "platform": "Scotch.io"
-    },
-    {
-      "title": "Server-Side Rendering in Angular 2 with Angular Universal",
-      "media": "http://res.cloudinary.com/christekh/image/upload/v1499090230/StNrRkB0SJicfLIfFqg7_angular-2-server-side-rendering.png_nbj3le.jpg",
-      "link": "https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal",
-      "platform": "Scotch.io"
-    },
-    {
-      "title": "Getting Started with Vue JS: The Progressive JavaScript Framework",
-      "media": "https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/Vue-JS_2000x1100.png",
-      "link": "http://cloudinary.com/blog/getting_started_with_vue_js_the_progressive_javascript_framework",
-      "platform": "Cloudinary"
-    }
-  ],
+  {
+    "platform": "Scotch",
+    "id": 1,
+    "title": "Blurry to Crisp: Progressive Media for Better UX",
+    "link": "https://goo.gl/DxkvcT",
+    "media": "https://cdn.scotch.io/1/GOQQki2QTTGT5eB9q7Rl_cloudinary-blurry-to-crisp-progressive-media-for-better-ux.png.jpg",
+    "date": "June 05, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 2,
+    "title": "State Management in Vue: Getting Started with Vuex",
+    "link": "https://goo.gl/PX2phJ",
+    "media": "https://cdn.scotch.io/10/fWlY0OEqSyi6RDN3mGwb_vuex%20scotch.png.jpg",
+    "date": "May 23, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 3,
+    "title": "Build a Serverless MERN Story App With Webtask.io -- Zero to Deploy: 2",
+    "link": "https://goo.gl/QZ3w9S",
+    "media": "https://cdn.scotch.io/10/58vADZQNSE6vSMR5C5L2_part2.png.jpg",
+    "date": "April 27, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 4,
+    "title": "Build a Serverless MERN Story App With Webtask.io -- Zero to Deploy: 1",
+    "link": "https://goo.gl/mZe2Sd",
+    "media": "https://cdn.scotch.io/10/9g67hQ9iSGKHsCVusYUH_part1.png.jpg",
+    "date": "April 26, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 5,
+    "title": "Interactive Product Page with React and Cloudinary",
+    "link": "https://goo.gl/trkB3S",
+    "media": "https://cdn.scotch.io/1/didSTQdTnmSAD5P11sj3_interactive-product-page-with-react-cloudinary.png.jpg",
+    "date": "March 14, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 6,
+    "title": "5 Features To Watch Out For in Angular v4",
+    "link": "https://goo.gl/Z258mR",
+    "media": "https://cdn.scotch.io/10/taD2RtmxSJWvYEKNljDB_Group%203.png.jpg",
+    "date": "March 13, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 7,
+    "title": "Create Scotch-Like Image Cards in Angular 2+ with Cloudinary",
+    "link": "https://goo.gl/7xuE6D",
+    "media": "https://cdn.scotch.io/1/4ZhdTNRwSLyrkU5xrx6S_create-scotch-article-cards-with-angular-cloudinary.png.jpg",
+    "date": "February 14, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 8,
+    "title": "Build a Realtime CRUD App with Vue & deepstream",
+    "link": "https://goo.gl/pnu6jZ",
+    "media": "https://cdn.scotch.io/10/B33E1CmSJeTV1LqkU6wA_2.jpg",
+    "date": "February 08, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 9,
+    "title": "Build a Music Player with Angular & Electron III : Bringing It All Together",
+    "link": "https://goo.gl/rmQ332",
+    "media": "https://cdn.scotch.io/1/qQqlNzPgRuWgBLfTyosW_build-a-music-app-with-angular-electron-part-3.jpg",
+    "date": "January 30, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 10,
+    "title": "Build a Music Player with Angular & Electron II : Making the UI",
+    "link": "https://goo.gl/oQgAZW",
+    "media": "https://cdn.scotch.io/1/Z5LN2ClT0SOnhqYzEUGw_build-an-angular-electron-music-app.jpg",
+    "date": "January 26, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 11,
+    "title": "Build a Music Player with Angular 2+ & Electron I : Setup & Basics Concepts",
+    "link": "https://goo.gl/6jvsMF",
+    "media": "https://cdn.scotch.io/1/UquBjcdAS72WyStXCZHX_Build-a-MUSIC%20APP%20WITH%20ANGULAR%20%20ELECTRON%201.jpg",
+    "date": "January 23, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 12,
+    "title": "Leveraging React for Easy Image Management with Cloudinary",
+    "link": "https://goo.gl/FNeV68",
+    "media": "https://cdn.scotch.io/1/8BDdM7iQXKikxR7GqiHE_leveraging-react-for-image-management.jpg",
+    "date": "January 12, 2017"
+  },
+  {
+    "platform": "Scotch",
+    "id": 13,
+    "title": "Should You Transform Images On Upload or On Demand?",
+    "link": "https://goo.gl/p1gKfZ",
+    "media": "https://cdn.scotch.io/1/6BzHozJUSZW8Rcn4jYIW_transform-images-on-upload-or-on-demand-cloudinary.png.jpg",
+    "date": "December 20, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 14,
+    "title": "React Universal with Next.js: Server-side React",
+    "link": "https://goo.gl/neUMBe",
+    "media": "https://cdn.scotch.io/1/pMGOpicdSeydAgvHREUA_react-universal-with-next-js-react-server-side-rendering.png.jpg",
+    "date": "December 19, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 15,
+    "title": "Server-Side Rendering in Angular 2 with Angular Universal",
+    "link": "https://goo.gl/p8sPuW",
+    "media": "https://cdn.scotch.io/1/StNrRkB0SJicfLIfFqg7_angular-2-server-side-rendering.png.jpg",
+    "date": "December 12, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 16,
+    "title": "Implement Smooth Video Buffering for Better Viewing Experience with Cloudinary",
+    "link": "https://goo.gl/sYV5Dk",
+    "media": "https://cdn.scotch.io/1/Ct3JomLNTn2bUZUK12kO_implement-smooth-video-buffering-for-better-viewing-experience.png.jpg",
+    "date": "December 06, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 17,
+    "title": "Improve User Experience with Intelligent Delivery (via Multiple CDNs)",
+    "link": "https://goo.gl/Uwtwbt",
+    "media": "https://cdn.scotch.io/1/eBwUVxKRTG6qRC8WyeKQ_improving-user-experience-through-intelligent-delivery.png.jpg",
+    "date": "November 29, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 18,
+    "title": "Bookshop With React & Redux II: Async Requests With Thunks",
+    "link": "https://goo.gl/GYyuq6",
+    "media": "https://cdn.scotch.io/1/V8oZFhtFRMCaAwqT6bbc_build-a-bookshop-with-react-redux-part-2.png.jpg",
+    "date": "November 02, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 19,
+    "title": "Build a Bookshop with React & Redux I: React Redux Flow",
+    "link": "https://goo.gl/kDSAzN",
+    "media": "https://cdn.scotch.io/1/w9vLOw58TPaZ6DWx3rLz_build-a-bookshop-with-react-and-redux-part-1.png.jpg",
+    "date": "October 24, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 20,
+    "title": "Build the Back-End For Your Own Instagram-style App with Cloudinary",
+    "link": "https://goo.gl/fos4gt",
+    "media": "https://cdn.scotch.io/1/Y846CTIgQJC2uMCGZ5Pm_build-an-instagram-style-app-with-cloudinary.png.jpg",
+    "date": "September 27, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 21,
+    "title": "Create a Simple To-Do App With React",
+    "link": "https://goo.gl/hCJ8Kp",
+    "media": "https://cdn.scotch.io/1/4lLYzcCSWiF5Cf2YY9A6_create-a-simple-to-do-app-with-react.png",
+    "date": "September 12, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 22,
+    "title": "Routing React Apps: The Complete Guide",
+    "link": "https://goo.gl/1XK33u",
+    "media": "https://cdn.scotch.io/1/GcA067qETG6kQvKlR8MQ_complete-guide-to-react-routing.png",
+    "date": "September 07, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 23,
+    "title": "ReactJS Components: Learning the Basics",
+    "link": "https://goo.gl/Bk4DWx",
+    "media": "https://cdn.scotch.io/10/Ge3XDJ4BRaG8Ke87EBxd_react-component.png",
+    "date": "August 24, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 24,
+    "title": "Angular 2 HTTP Requests with Observables",
+    "link": "https://goo.gl/hU62e6",
+    "media": "https://cdn.scotch.io/10/SeqTHj9kQf6xUkcqxuE1_scotch-http.jpg",
+    "date": "August 01, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 25,
+    "title": "Routing Angular 2 Single Page Apps with the Component Router",
+    "link": "https://goo.gl/aYSstL",
+    "media": "https://cdn.scotch.io/10/wl7NtBEHQRaHUAImkKjJ_scotch-ng-router.jpg",
+    "date": "July 20, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 26,
+    "title": "Create A Custom Yeoman Generator in 4 Easy Steps",
+    "link": "https://goo.gl/YzU8PH",
+    "media": "https://scotch.io/wp-content/uploads/2015/11/create-custom-yeoman-generator-4-steps.png",
+    "date": "July 10, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 27,
+    "title": "Build a Mini Instagram App with Aurelia",
+    "link": "https://goo.gl/DWxhNC",
+    "media": "https://cdn.scotch.io/1/QFjcXTrPSwCffGwtDrTJ_build-a-mini-instagram-app-with-aurelia.png",
+    "date": "June 09, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 28,
+    "title": "Build a Music Player with React & Electron III: Bringing It All Together",
+    "link": "https://goo.gl/mQdtYT",
+    "media": "https://cdn.scotch.io/10/TakGv3rWSPmnvh7dUf9U_Scotch-Player-3.jpg",
+    "date": "May 02, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 29,
+    "title": "Build a Music Player with React & Electron II: Making the UI",
+    "link": "https://goo.gl/o7dtq9",
+    "media": "https://cdn.scotch.io/10/GBIAA28QTOzCzaD7yCuA_Scotch-Player-2.jpg",
+    "date": "April 27, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 30,
+    "title": "Build a Music Player with React & Electron I: Setup & Basic Concepts",
+    "link": "https://goo.gl/aFUXuM",
+    "media": "https://cdn.scotch.io/10/b3ZglPT5TYOibndeVrS3_Scotch-Player-1.jpg",
+    "date": "April 25, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 31,
+    "title": "Caching in Laravel with Speed Comparisons",
+    "link": "https://goo.gl/UBsK5N",
+    "media": "https://cdn.scotch.io/10/cttZ9cHURpmumn4qEnQe_scotch-cache.jpg",
+    "date": "April 04, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 32,
+    "title": "Ultimate Guide on Sending Email in Laravel",
+    "link": "https://goo.gl/SDqHB6",
+    "media": "https://cdn.scotch.io/10/vnPCzIYyQ2uh7Msxrrjc_scotch-mails.jpg",
+    "date": "March 30, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 33,
+    "title": "Optimizing Laravel Projects with Events and Queued Events",
+    "link": "https://goo.gl/bVBp6Q",
+    "media": "https://cdn.scotch.io/10/sl4sMwFVQtWoVOxcUBew_scotch-events.jpg",
+    "date": "March 23, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 34,
+    "title": "All the Ways to Add CSS to Angular 2 Components",
+    "link": "https://goo.gl/cNuaJ1",
+    "media": "https://cdn.scotch.io/10/P4ojpwNDSTaIK3lbkCEq_ng2-styling-techniques.jpg",
+    "date": "March 22, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 35,
+    "title": "Role Based Authentication in Laravel with JWT",
+    "link": "https://goo.gl/Wd37Wu",
+    "media": "https://cdn.scotch.io/10/ns87kGNDR4yoMSB5FdbS_scotch-entrust.jpg",
+    "date": "March 21, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 36,
+    "title": "Responsive Carousel Component with Angular 2",
+    "link": "https://goo.gl/HgEZ7j",
+    "media": "https://cdn.scotch.io/10/oyOfVPDYSzKQdjdwUtAi_ng-carousel-component.jpg",
+    "date": "March 21, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 37,
+    "title": "Why Laravel Queues Are Awesome",
+    "link": "https://goo.gl/GSpfK2",
+    "media": "https://cdn.scotch.io/10/jasztyaVQJi9ccGmElCp_scotch-queues.jpg",
+    "date": "March 17, 2016"
+  },
+  {
+    "platform": "Scotch",
+    "id": 38,
+    "title": "Seamless Ways to Upgrade Angular 1.x to Angular 2",
+    "link": "https://goo.gl/jFH3is",
+    "media": "https://scotch.io/wp-content/uploads/2015/12/seamless-ways-to-upgrade-angular.png",
+    "date": "December 19, 2015"
+  },
+  {
+    "platform": "Scotch",
+    "id": 39,
+    "title": "Create Your First Mobile App with AngularJS and Ionic",
+    "link": "https://goo.gl/CsD3yJ",
+    "media": "https://scotch.io/wp-content/uploads/2015/11/build-a-todo-app-with-angular-ionic.png",
+    "date": "December 17, 2015"
+  },
+  {
+    "platform": "Scotch",
+    "id": 40,
+    "title": "Easy Project Scaffolding with Gulp and Slush",
+    "link": "https://goo.gl/U5BRkj",
+    "media": "https://scotch.io/wp-content/uploads/2015/09/easy-project-scaffolding-with-gulp-and-slush.png",
+    "date": "October 06, 2015"
+  },
+  {
+    "platform": "Scotch",
+    "id": 41,
+    "title": "Make A Real-Time Chat Room Using Node Webkit, Socket.io, and MEAN",
+    "link": "https://goo.gl/q52LPH",
+    "media": "https://scotch.io/wp-content/uploads/2015/09/real-time-chat-node-webkit-socket-mean.png",
+    "date": "September 10, 2015"
+  },
+  {
+    "platform": "Pusher",
+    "id": 42,
+    "title": "Real time error reporting and logs in JavaScript",
+    "link": "https://goo.gl/TpAZZQ",
+    "media": "https://blog.pusher.com/wp-content/uploads/2017/07/realtime-error-reporting-and-logs-in-javascript2.png",
+    "date": "July 4, 2017"
+  },
+  {
+    "platform": "Codementor",
+    "id": 43,
+    "title": "How to Implement \"Is Typing\" Feature in Ionic Chat App",
+    "link": "https://goo.gl/vp9Yxr",
+    "media": "https://process.filestackapi.com/cache=expiry:max/resize=width:700/compress/JhcvczlQVePh4GYY6UWS",
+    "date": "Apr 24, 2017"
+  },
+  {
+    "platform": "Codementor",
+    "id": 44,
+    "title": "Building a Real-time Chat App with Angular 2 and deepstream",
+    "link": "https://goo.gl/LTmia1",
+    "media": "https://process.filestackapi.com/cache=expiry:max/resize=width:700/compress/A6DYW2hlT2C3bmMLBKZD",
+    "date": "Feb 22, 2017"
+  },
+  {
+    "platform": "Codementor",
+    "id": 45,
+    "title": "Build a React Image Gallery with Cloudinary",
+    "link": "https://goo.gl/hw9t7A",
+    "media": "https://process.filestackapi.com/cache=expiry:max/resize=width:700/compress/xADU9rsaRSqG5kzlibaH",
+    "date": "Jan 13, 2017"
+  },
+  {
+    "platform": "Codementor",
+    "id": 46,
+    "title": "Migrating from Rails to Sails: Comparison and Implementation Guide",
+    "link": "https://goo.gl/Hu3Vjv",
+    "media": "https://s3.amazonaws.com/codementor_content/2016-Sept/migrating.jpg",
+    "date": "Sep 10, 2016"
+  },
+  {
+    "platform": "Codementor",
+    "id": 47,
+    "title": "Basic Component Animation with Angular 2",
+    "link": "https://goo.gl/NPDL9Z",
+    "media": "https://process.filestackapi.com/cache=expiry:max/resize=width:700/compress/1zHLXkbgQrG6d1p0LhEO",
+    "date": "Dec 08, 2016"
+  },
+  {
+    "platform": "Codementor",
+    "id": 48,
+    "title": "Build Custom Directives in Angular 2",
+    "link": "https://goo.gl/JZHviT",
+    "media": "https://process.filestackapi.com/cache=expiry:max/resize=width:700/compress/jHbREEdmQYsCHRZhpkBP",
+    "date": "Nov 21, 2016"
+  },
+  {
+    "platform": "Medium",
+    "id": 49,
+    "title": "Your JavaScript Chart Should Move — Here’s How",
+    "link": "https://goo.gl/aqtDnK",
+    "media": "https://cdn-images-1.medium.com/max/1000/1*_u4L6xMaiWC0KaQgx_BkFg.jpeg",
+    "date": "May 31, 2017"
+  },
+  {
+    "platform": "Cloudinary",
+    "id": 50,
+    "title": "Serverless Tutorial: File Storage with Webtask and Cloudinary",
+    "link": "http://cloudinary.com/blog/serverless_tutorial_file_storage_with_webtask_and_cloudinary",
+    "media": "https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/Serverless.png",
+    "date": "May 24, 2017"
+  },
+  {
+    "platform": "Cloudinary",
+    "id": 51,
+    "title": "Getting Started with Vue JS: The Progressive JavaScript Framework",
+    "link": "http://cloudinary.com/blog/getting_started_with_vue_js_the_progressive_javascript_framework",
+    "media": "https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/Vue-JS_2000x1100.png",
+    "date": "May 08, 2017"
+  },
+  {
+    "platform": "Cloudinary",
+    "id": 52,
+    "title": "Video Management Made Easy",
+    "link": "http://cloudinary.com/blog/video_management_made_easy",
+    "media": "https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/Video_Management.jpg",
+    "date": "April 24, 2017"
+  },
+  {
+    "platform": "Cloudinary",
+    "id": 53,
+    "title": "How to build a CMS with Adonis: A Laravel-like MVC framework for Node - Part 1",
+    "link": "http://cloudinary.com/blog/how_to_build_a_cms_with_adonis_a_laravel_like_mvc_framework_for_node_part_1",
+    "media": "https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/adonis_blog_post.png",
+    "date": "Dec 28, 2016"
+  },
+  {
+    "platform": "Cloudinary",
+    "id": 54,
+    "title": "How to build a CMS with Adonis: A Laravel-like MVC framework for Node - Part 2",
+    "link": "http://cloudinary.com/blog/how_to_build_a_cms_with_adonis_a_laravel_like_mvc_framework_for_node_part_2",
+    "media": "https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/adonis_blog_post.png",
+    "date": "Jan 4, 2017"
+  }
+],
   "jobs": [
     {
       "company": "Scotch.io",
